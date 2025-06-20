@@ -1,0 +1,25 @@
+ul {
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    justify-content: center;
+    
+}
+
+li {
+    background-color: black;
+}
+
+li button {
+    background-color: azure;
+    padding: 20px;
+    font-size: 30px;
+}
+
+#restart {
+    background-color: beige;
+    padding: 10px;
+    font-size: 20px;
+  
+}
+
